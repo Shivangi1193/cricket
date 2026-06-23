@@ -1,0 +1,41 @@
+[
+    {
+        "series_id": 12569,
+        "series_name": "Namibia T20I Tri-Series 2026",
+        "match_type": "International"
+    },
+    {
+        "series_id": 12635,
+        "series_name": " Asia Pacific Cricket Champions Trophy 2026",
+        "match_type": "International"
+    },
+    {
+        "series_id": 12530,
+        "series_name": "Madhya Pradesh Premier League 2026",
+        "match_type": "League"
+    },
+    {
+        "series_id": 12541,
+        "series_name": "Maharaja Trophy KSCA T20 2026",
+        "match_type": "League"
+    },
+    {
+        "series_id": 11408,
+        "series_name": "County Championship Division One 2026",
+        "match_type": "Domestic"
+    },
+    {
+        "series_id": 11416,
+        "series_name": "County Championship Division Two 2026",
+        "match_type": "Domestic"
+    },
+    {
+        "series_id": 12222,
+        "series_name": "Sri Lanka Women U19 tour of India 2026"
+    },
+    {
+        "series_id": 12565,
+        "series_name": "ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+        "match_type": "International"
+    }
+]

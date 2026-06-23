@@ -1,0 +1,66 @@
+[
+    {
+        "match_id": 161608,
+        "series_id": 12569,
+        "team1_id": 161,
+        "team2_id": 8,
+        "venue_id": 1438021,
+        "status": "Namibia opt to bat-Namibia opt to bat"
+    },
+    {
+        "match_id": 160755,
+        "series_id": 12530,
+        "team1_id": 3406,
+        "team2_id": 2479,
+        "venue_id": 152,
+        "status": "Malwa Stallions opt to bat"
+    },
+    {
+        "match_id": 160889,
+        "series_id": 12541,
+        "team1_id": 1123,
+        "team2_id": 122,
+        "venue_id": 156,
+        "status": "Coastal Kings Mangaluru opt to bowl-Coastal Kings Mangaluru opt to bowl"
+    },
+    {
+        "match_id": 142398,
+        "series_id": 11408,
+        "team1_id": 149,
+        "team2_id": 148,
+        "venue_id": 62,
+        "status": "Day 4: 2nd Session"
+    },
+    {
+        "match_id": 142420,
+        "series_id": 11408,
+        "team1_id": 119,
+        "team2_id": 140,
+        "venue_id": 223,
+        "status": "Day 4: 2nd Session"
+    },
+    {
+        "match_id": 143022,
+        "series_id": 11416,
+        "team1_id": 150,
+        "team2_id": 74,
+        "venue_id": 67,
+        "status": "Day 4: 2nd Session"
+    },
+    {
+        "match_id": 143044,
+        "series_id": 11416,
+        "team1_id": 147,
+        "team2_id": 151,
+        "venue_id": 225,
+        "status": "Day 4: 2nd Session"
+    },
+    {
+        "match_id": 143055,
+        "series_id": 11416,
+        "team1_id": 141,
+        "team2_id": 142,
+        "venue_id": 60,
+        "status": "Day 4: 2nd Session"
+    }
+]

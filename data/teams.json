@@ -1,0 +1,82 @@
+[
+    {
+        "team_id": 161,
+        "team_name": "Namibia",
+        "short_name": "NAM"
+    },
+    {
+        "team_id": 8,
+        "team_name": "Hong Kong, China",
+        "short_name": "HKC"
+    },
+    {
+        "team_id": 3406,
+        "team_name": "Malwa Stallions",
+        "short_name": "MLSS"
+    },
+    {
+        "team_id": 2479,
+        "team_name": "Rewa Jaguars",
+        "short_name": "RJ"
+    },
+    {
+        "team_id": 1123,
+        "team_name": "Gulbarga Mystics",
+        "short_name": "GBM"
+    },
+    {
+        "team_id": 122,
+        "team_name": "Coastal Kings Mangaluru",
+        "short_name": "CKM"
+    },
+    {
+        "team_id": 149,
+        "team_name": "Glamorgan",
+        "short_name": "GLAM"
+    },
+    {
+        "team_id": 148,
+        "team_name": "Surrey",
+        "short_name": "SUR"
+    },
+    {
+        "team_id": 119,
+        "team_name": "Somerset",
+        "short_name": "SOM"
+    },
+    {
+        "team_id": 140,
+        "team_name": "Warwickshire",
+        "short_name": "WARKS"
+    },
+    {
+        "team_id": 150,
+        "team_name": "Kent",
+        "short_name": "KENT"
+    },
+    {
+        "team_id": 74,
+        "team_name": "Middlesex",
+        "short_name": "MDX"
+    },
+    {
+        "team_id": 147,
+        "team_name": "Worcestershire",
+        "short_name": "WORCS"
+    },
+    {
+        "team_id": 151,
+        "team_name": "Gloucestershire",
+        "short_name": "GLOUCS"
+    },
+    {
+        "team_id": 141,
+        "team_name": "Durham",
+        "short_name": "DUR"
+    },
+    {
+        "team_id": 142,
+        "team_name": "Northamptonshire",
+        "short_name": "NHNTS"
+    }
+]
